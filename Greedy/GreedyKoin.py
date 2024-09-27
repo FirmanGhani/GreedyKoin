@@ -16,7 +16,7 @@ def coin_change(X, arr):
     return result, count_dict
 
 def main():
-    st.title('Coin Change Problemmmmm')
+    st.title('Coin Change Problem')
     
     arr = [1, 2, 5, 10]
     st.write(f"Koin yang tersedia: {arr}")
