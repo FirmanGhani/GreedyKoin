@@ -2,6 +2,7 @@ Tugas Desain & Analisa Algoritma
 
 Anggota Kelompok :
 Michael Johanes Johansyah (L0123081)
+
 Muhammad Firman Ghani (L0123095)
 
 Repository ini terdiri dari Source Code dari aplikasi Greedy Coin Change Problem dan requirementnya, aplikasi ini  dibuat menggunakan python dengan memanfaatkan framework python yaitu streamlit. Untuk sistem deploynya, kami menggunakan streamlit cloud.
