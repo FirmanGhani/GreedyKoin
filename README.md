@@ -9,6 +9,5 @@ Repository ini terdiri dari Source Code dari aplikasi Greedy Coin Change Problem
 Selain itu, terdapat laporan dokumentasi mengenai tugas ini, yang berisi penjabaran masalah, penjelasan implementasi dan pengujian.
 
 Berikut ini link menuju aplikasi Greedy Coin Change Problem, beserta video demonya :
-
-Link aplikasi : https://greedykoin.streamlit.app/
-Link video demo : 
+1. Link aplikasi : https://greedykoin.streamlit.app/
+2. Link video demo : https://youtu.be/hiO7lqs0cZ4
